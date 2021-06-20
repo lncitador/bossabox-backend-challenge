@@ -1,9 +1,9 @@
 <h2 align="center">
-  <img alt="BossaBox" src="assets/logo__bossabox_full.svg" width="75%">
-</h2>
-<h6 align="center">
+  <img alt="BossaBox" src="assets/logo__bossabox_full.svg" width="60%">
+  <br/>
   BACKEND CHALLENGE
-</h6>
+</h2>
+
 <p align="center">
   <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/lncitador/bossabox-backend-challenge.svg">
 
